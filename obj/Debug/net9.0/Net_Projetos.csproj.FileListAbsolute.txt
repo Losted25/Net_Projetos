@@ -12,3 +12,4 @@ C:\Users\Raffael Eccard\OneDrive\Documentos\GitHub\Net_Projetos\obj\Debug\net9.0
 C:\Users\Raffael Eccard\OneDrive\Documentos\GitHub\Net_Projetos\obj\Debug\net9.0\Net_Projetos.pdb
 C:\Users\Raffael Eccard\OneDrive\Documentos\GitHub\Net_Projetos\obj\Debug\net9.0\Net_Projetos.genruntimeconfig.cache
 C:\Users\Raffael Eccard\OneDrive\Documentos\GitHub\Net_Projetos\obj\Debug\net9.0\ref\Net_Projetos.dll
+C:\Users\Raffael Eccard\OneDrive\Documentos\GitHub\Net_Projetos\obj\Debug\net9.0\Net_Projetos.sourcelink.json
