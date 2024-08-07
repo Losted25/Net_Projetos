@@ -1,0 +1,14 @@
+C:\Users\Raffael Eccard\OneDrive\Documentos\GitHub\Net_Projetos\bin\Debug\net9.0\Net_Projetos.exe
+C:\Users\Raffael Eccard\OneDrive\Documentos\GitHub\Net_Projetos\bin\Debug\net9.0\Net_Projetos.deps.json
+C:\Users\Raffael Eccard\OneDrive\Documentos\GitHub\Net_Projetos\bin\Debug\net9.0\Net_Projetos.runtimeconfig.json
+C:\Users\Raffael Eccard\OneDrive\Documentos\GitHub\Net_Projetos\bin\Debug\net9.0\Net_Projetos.dll
+C:\Users\Raffael Eccard\OneDrive\Documentos\GitHub\Net_Projetos\bin\Debug\net9.0\Net_Projetos.pdb
+C:\Users\Raffael Eccard\OneDrive\Documentos\GitHub\Net_Projetos\obj\Debug\net9.0\Net_Projetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raffael Eccard\OneDrive\Documentos\GitHub\Net_Projetos\obj\Debug\net9.0\Net_Projetos.AssemblyInfoInputs.cache
+C:\Users\Raffael Eccard\OneDrive\Documentos\GitHub\Net_Projetos\obj\Debug\net9.0\Net_Projetos.AssemblyInfo.cs
+C:\Users\Raffael Eccard\OneDrive\Documentos\GitHub\Net_Projetos\obj\Debug\net9.0\Net_Projetos.csproj.CoreCompileInputs.cache
+C:\Users\Raffael Eccard\OneDrive\Documentos\GitHub\Net_Projetos\obj\Debug\net9.0\Net_Projetos.dll
+C:\Users\Raffael Eccard\OneDrive\Documentos\GitHub\Net_Projetos\obj\Debug\net9.0\refint\Net_Projetos.dll
+C:\Users\Raffael Eccard\OneDrive\Documentos\GitHub\Net_Projetos\obj\Debug\net9.0\Net_Projetos.pdb
+C:\Users\Raffael Eccard\OneDrive\Documentos\GitHub\Net_Projetos\obj\Debug\net9.0\Net_Projetos.genruntimeconfig.cache
+C:\Users\Raffael Eccard\OneDrive\Documentos\GitHub\Net_Projetos\obj\Debug\net9.0\ref\Net_Projetos.dll
