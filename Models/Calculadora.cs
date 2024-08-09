@@ -20,5 +20,11 @@ namespace Net_Projetos.Models
         public void Dividir(int x, int y){
             Console.WriteLine($"{x} / {y} = {x / y}");
         }
+        public void Elevar(int x, int y){
+            
+            double pot = Math.Pow(x,y);
+            Console.WriteLine($"{x}^{y} = {pot}");
+        }
+
     }
 }

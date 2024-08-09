@@ -3,12 +3,11 @@
     Calculadora calc = new Calculadora();
 
     calc.Somar(3,4);
-     
-    calc.Multiplicar(3,12);
-
+    //calc.Multiplicar(3,12);
     calc.Dividir(1255,5);
-    
-    calc.Subtrair(36,25);
+    //calc.Subtrair(36,25);
+    calc.Elevar(3,5);
+
 
 
 
